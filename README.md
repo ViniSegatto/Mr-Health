@@ -38,5 +38,14 @@
   * Há poucos valores extremos. A quantidade de Itens pedidos e de Valor total tem uma variancia relativamente curta.
 
 ## 4. Modelagem. 
+ * Para a predição do controle de estoque (tarefa de regressão, aprendizado supervisionado com dados rotulados), foi utilizado o modelo XGBoost por conta do seu poder preditivo, rápido treinamento e predição e flexibilidade de pré-processamento.
+ * Foram consideradas algumas variáveis na construção do modelo. Os insights obtidos na etapa de análise exploratória de dados serviram de guia para tarefas de limpeza e pré-processamento de dados, necessárias para a aplicação de algoritmos de machine learning.
+ * Foram testados diversos tipo de modelos de Regressão para escolha do melhor modelo nessa analise.
+ * Os resultados foram interpretados através do calculo de Erro Médio Quadrático (MSE), R-quadrado (R²) e Root Mean Squared Error (RMSE). 
+
+| Modelo | MSE | RMSE | R² |
+|---|---|---|---|
+|XGBoost|167.77|10.39| 0.8277 |
+|---|---|---|---|
 
 
