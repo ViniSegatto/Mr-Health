@@ -2,14 +2,14 @@
 ![image](https://github.com/ViniSegatto/Mr-Health/assets/117327390/27271eb5-2474-4aaf-b21b-1d476035c468)
 
 1. Descrição e objetivos
-   * Este é um projeto de ciência de dados desde a coleta de dados até a modelagem em que é realizada a limpeza, análise exploratória e modelagem dos dados
-   * A solução foi planejada com base no framework CRISP-DM, envolvendo o entendimento do problema, entendimento dos dados, limpeza dos dados, análise dos dados, modelagem.
-   * A limpeza foi fundamental, dado que os três conjuntos originais estavam separados.
-   * A análise e modelagem se dividem em duas abordagens:
-   * Análise e modelagem de desempenho: O objetivo dessa análise consiste em identificar as principais variáveis que impactam no controle de estoque, como elas se relacionam dele e como elas podem ser utilizadas para a predição desse estoque.
-   * Foi utilizado o modelo XGBoost, dado o alto poder preditivo, rapidez de treinamento e predição, e flexibilidade no pré-processamento.
-   * Tais analises servem para que João possa realizar o se concentrar na análise destas informações e na tomada de ações junto aos fornecedores e gestores das unidades.
-   * O modelo desenvolvido pode ajudar João a suprir o estoque com a quantidade adequada de Itens, para que não haja nem desperdicio nem falte itens para os clientes, mesmo com as mudanças sazonais que podem acontecer.
+  * Este é um projeto de ciência de dados desde a coleta de dados até a modelagem em que é realizada a limpeza, análise exploratória e modelagem dos dados
+  * A solução foi planejada com base no framework CRISP-DM, envolvendo o entendimento do problema, entendimento dos dados, limpeza dos dados, análise dos dados, modelagem.
+  * A limpeza foi fundamental, dado que os três conjuntos originais estavam separados.
+  * A análise e modelagem se dividem em duas abordagens:
+  * Análise e modelagem de desempenho: O objetivo dessa análise consiste em identificar as principais variáveis que impactam no controle de estoque, como elas se relacionam dele e como elas podem ser utilizadas para a predição desse estoque.
+  * Foi utilizado o modelo XGBoost, dado o alto poder preditivo, rapidez de treinamento e predição, e flexibilidade no pré-processamento.
+  * Tais analises servem para que João possa realizar o se concentrar na análise destas informações e na tomada de ações junto aos fornecedores e gestores das unidades.
+  * O modelo desenvolvido pode ajudar João a suprir o estoque com a quantidade adequada de Itens, para que não haja nem desperdicio nem falte itens para os clientes, mesmo com as mudanças sazonais que podem acontecer.
 
   2. Limpeza de dados
    *   A limpeza foi fundamental, dado que o conjunto original estava separado em 3 arquivos diferentes. tornando a manipulação, análise e modelagem dos dados inviável. Nessa etapa, foram realizadas as seguintes tarefas:
