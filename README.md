@@ -46,6 +46,21 @@
 | Modelo | MSE | RMSE | R² |
 |---|---|---|---|
 |XGBoost|167.77|10.39| 0.8277 |
-|---|---|---|---|
 
+![image](https://github.com/ViniSegatto/Mr-Health/assets/117327390/08ebd7a2-2296-4628-a235-182d31d493db)
+
+## 5. Estrutura de pastas do projeto
+ * Notebooks: Contém os notebooks análise exploratória de dados e  modelagem..
+ * Data: Contém os arquivos de formato .Xlms que foram utilizados para essa analise.
+
+## 6 Tecnologias utilizadas 
+
+ * As tecnologias e ferramentas utilizadas foram Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn), Jupyter Notebook e Github, algoritmos de machine learning para regressão e classificação, estatística
+
+## 7 Contato
+
+ * [LinkedIn:](https://www.linkedin.com/in/vinicius-segatto-9a560421b/)
+ * [GitHub:](https://github.com/ViniSegatto )
+ * [Medium:](https://medium.com/@viniciussegatto11)
+ * [Email:](viniciussegatto11@gmail.com)
 
