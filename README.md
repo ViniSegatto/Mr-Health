@@ -18,12 +18,12 @@
    *  Analisamos dados duplicados, unicos, tipos de dados, quantidade de dados e muito mais com a função dfSummary() que nos ajuda a poupar tempo e linhas de codigo.
 
 3. Análise de desempenho
-   *   O objetivo dessa análise consiste em identificar as principais variáveis que podem impactar nosso controle de estoque, como elas se relacionam com o desempenho dele e como podem ser utilizadas para a predição desse modelo. 
-   *   Perguntas respondidas na Análise:
-   *  Quais os itens mais vendidos.
-   *  Qual a quantidade de itens mais vendidos.
-   *  Qual a maior parcela do valor total, minima e maxima. 
-   * Tendência de vendas diarias com regressão.
+ *   O objetivo dessa análise consiste em identificar as principais variáveis que podem impactar nosso controle de estoque, como elas se relacionam com o desempenho dele e como podem ser utilizadas para a predição desse modelo. 
+  *   Perguntas respondidas na Análise:
+  *  Quais os itens mais vendidos.
+  *  Qual a quantidade de itens mais vendidos.
+  *  Qual a maior parcela do valor total, minima e maxima. 
+  * Tendência de vendas diarias com regressão.
 
 3.1 Principais insights
 
