@@ -31,7 +31,10 @@
   * A tendência de vendas registra uma linha de regressão que tem uma inclinação positiva, indicando que as vendas diárias tendem a aumentar com o tempo. 
 ![image](https://github.com/ViniSegatto/Mr-Health/assets/117327390/53235a19-8c1c-4613-b6f8-45bd95b924b4)
   * A variância entre os itens é baixa. Isso significa que a quantidade vendida de cada item se mantém relativamente constante ao longo do tempo, sem grandes flutuações.
+    
 ![image](https://github.com/ViniSegatto/Mr-Health/assets/117327390/f69683d1-0d3f-4d04-9f56-a234eafadcf6)
+![image](https://github.com/ViniSegatto/Mr-Health/assets/117327390/0ccce167-a0aa-44f2-8814-3e132aa13ab6)
+
   * Há poucos valores extremos. A quantidade de Itens pedidos e de Valor total tem uma variancia relativamente curta.
 
 ## 4. Modelagem. 
