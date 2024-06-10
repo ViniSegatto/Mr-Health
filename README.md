@@ -1,7 +1,7 @@
 # Análise e Modelagem para a empresa Mr-Health
 ![image](https://github.com/ViniSegatto/Mr-Health/assets/117327390/27271eb5-2474-4aaf-b21b-1d476035c468)
 
-1. Descrição e objetivos
+## 1. Descrição e objetivos
   * Este é um projeto de ciência de dados desde a coleta de dados até a modelagem em que é realizada a limpeza, análise exploratória e modelagem dos dados
   * A solução foi planejada com base no framework CRISP-DM, envolvendo o entendimento do problema, entendimento dos dados, limpeza dos dados, análise dos dados, modelagem.
   * A limpeza foi fundamental, dado que os três conjuntos originais estavam separados.
@@ -27,11 +27,11 @@
 
 ## 3.1 Principais insights
 
-   ![image](https://github.com/ViniSegatto/Mr-Health/assets/117327390/feffb4ee-0459-4e8f-af82-274810835877)
-  * A tendência de vendas registra uma linha de regressão que tem uma inclinação positiva, indicando que as vendas diárias tendem a aumentar com o tempo.
-   ![image](https://github.com/ViniSegatto/Mr-Health/assets/117327390/53235a19-8c1c-4613-b6f8-45bd95b924b4)
+![image](https://github.com/ViniSegatto/Mr-Health/assets/117327390/feffb4ee-0459-4e8f-af82-274810835877)
+  * A tendência de vendas registra uma linha de regressão que tem uma inclinação positiva, indicando que as vendas diárias tendem a aumentar com o tempo. 
+![image](https://github.com/ViniSegatto/Mr-Health/assets/117327390/53235a19-8c1c-4613-b6f8-45bd95b924b4)
   * A variância entre os itens é baixa. Isso significa que a quantidade vendida de cada item se mantém relativamente constante ao longo do tempo, sem grandes flutuações.
-   ![image](https://github.com/ViniSegatto/Mr-Health/assets/117327390/f69683d1-0d3f-4d04-9f56-a234eafadcf6)
+![image](https://github.com/ViniSegatto/Mr-Health/assets/117327390/f69683d1-0d3f-4d04-9f56-a234eafadcf6)
   * Há poucos valores extremos. A quantidade de Itens pedidos e de Valor total tem uma variancia relativamente curta.
 
 ## 4. Modelagem. 
